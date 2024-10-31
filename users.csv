@@ -1,0 +1,38 @@
+login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
+tiangolo,Sebastián Ramírez,,"Berlin, Germany",tiangolo@gmail.com,True,"Creator of FastAPI, Typer, SQLModel, Asyncer, etc. 🚀
+From 🇨🇴 in 🇩🇪. 
+Open Source, APIs, and tools for data/ML. 🤖 Python, TypeScript, Docker, etc.",73,26467,3,2012-01-12T22:37:04Z
+schacon,Scott Chacon,GITBUTLERAPP,"Berlin, Germany",schacon@gmail.com,,,215,13757,26,2008-01-27T17:19:28Z
+rwieruch,Robin Wieruch,,Berlin/Remote,,True,React & Next.js • JavaScript & TypeScript • Freelance Full-Stack Web Developer • Technical Co-Founder • Father of 2 • multiple-time GitHub Star,151,8622,30,2012-10-03T15:11:48Z
+shuding,Shu Ding,VERCEL,Berlin,g@shud.in,,Be curious. Read widely. Try new things. — aaronsw,149,6761,345,2013-02-23T07:46:30Z
+android10,Fernando Cejas,PEPPR-IO,"Berlin, Germany",android10@fernandocejas.com,True,Quantum Engineering at @Qruise-ai. Former Director at @wireapp. Former @soundcloud Core Engineering. Ex @IBM. Curious learner. Geek. OPEN SOURCE Advocate.,79,6714,85,2012-01-20T21:35:31Z
+marijnh,Marijn Haverbeke,NOT INTERESTED IN RECRUITER MAIL,Berlin,marijn@haverbeke.berlin,,Independent open-source programmer person,54,6524,0,2009-10-25T14:34:39Z
+mxmnk,Jerzy,,"Berlin, Germany",,,⭐️ Passionate Full-Stack Developer ⭐️,7,6463,6912,2018-12-20T17:27:13Z
+nikic,Nikita Popov,RED HAT,"Berlin, Germany",github@npopov.com,,,110,6236,25,2010-03-04T21:22:25Z
+greenrobot,Markus Junginger,OBJECTBOX,Berlin,,True,"CTO and co-founder at objectbox.io, creator of EventBus and greenDAO.",22,5506,4,2010-04-12T14:18:19Z
+sebastianruder,Sebastian Ruder,GOOGLE,"Berlin, Germany",sebastian@ruder.io,True,Research Scientist @Google,32,5466,6,2014-02-26T10:36:21Z
+vakila,Anjana Vakil,,San Francisco | Berlin,contact@anjana.dev,,Independent Developer Educator & Software Engineer,48,5297,0,2013-09-10T07:10:50Z
+tonsky,Nikita Prokopov,,"Berlin, Germany",niki@tonsky.me,,,115,5080,42,2010-05-24T05:43:30Z
+felixge,Felix Geisendörfer,DATADOG,"Berlin, Germany",,True,,285,4043,14,2008-06-25T14:24:37Z
+alexeygrigorev,Alexey Grigorev,DATATALKSCLUB,"Berlin, Germany",,True,Running @DataTalksClub and hacking some personal projects,129,3937,0,2011-06-25T13:16:52Z
+hanxiao,Han Xiao,JINA-AI,"Berlin, Germany",han.xiao@jina.ai,,CEO @jina-ai,106,3858,36,2012-07-25T15:52:49Z
+ines,Ines Montani,FOUNDER @EXPLOSION,"Berlin, Germany",ines@ines.io,,"Digital native and software developer working on AI, Machine Learning & NLP. Founder @explosion, developing spaCy & Prodigy.
+
+(Portrait: Sarah Andersen)",19,3821,1,2015-08-04T13:15:33Z
+apaszke,Adam Paszke,GOOGLE,"Berlin, Germany",adam.paszke@gmail.com,,Author of PyTorch. Research Scientist @ Google.,73,3722,11,2013-05-31T20:51:12Z
+lewagon,Le Wagon,,"Paris, London, Berlin & more",contact@lewagon.com,,Coding School bringing Technical Skills to Creative People,175,3636,0,2013-09-16T13:20:52Z
+codebytere,Shelley Vohr,MICROSOFT,Berlin,shelley.vohr@gmail.com,,core eng @electron. collaborator @nodejs. organizer @queerjs 🏳️‍🌈. misc @tc39 @openjs-foundation. way too online. often caffeinated. cruciverbalist.,105,3612,10,2012-07-24T19:05:37Z
+prisma,Prisma,,Berlin & Worldwide,hello@prisma.io,,Prisma makes working with databases easy,152,3571,0,2016-02-13T15:22:35Z
+armancodv,Arman Kolahan,UNITE,"Berlin, Germany",akolahan@gmail.com,True,"Lead Frontend Engineer proficient in TypeScript/React, PhD graduate, writer, with expertise in various programming languages.",51,3226,5566,2014-10-23T07:22:44Z
+peterbourgon,Peter Bourgon,,Berlin,,,The official GitHub account of Dwayne 'The Rock' Johnson,56,3114,0,2009-08-12T09:58:25Z
+vanhauser-thc,van Hauser,THE HACKER'S CHOICE | MH-SEC | ME | MYSELF,Berlin,vh@thc.org,True,"Security researcher since 1994
+
+https://www.mh-sec.de/
+https://www.thc.org/",44,3071,50,2014-04-24T14:44:32Z
+KittyGiraudel,Kitty Giraudel,COFENSTER,Berlin,,,"Non-binary trans accessibility & diversity advocate, frontend developer, author. Real life cat.",51,2990,0,2012-06-25T13:22:16Z
+dashersw,Armagan Amcalar,COYOTIV,Berlin,armagan@amcalar.com,,"Software architect, leader, lecturer, public speaker, mentor, entrepreneur, JS evangelist, electronics engineer, guitarist, singer, radio host.",200,2922,5,2011-03-29T23:27:54Z
+codepo8,Christian Heilmann,,"Berlin, Germany",chris.heilmann@gmail.com,,"Engineer who worked for Microsoft/Mozilla/Yahoo on browsers, developer tools and anything JavaScript related. AI/ML enthusiast, writer and trainer.",319,2718,6,2008-06-12T17:50:08Z
+nlohmann,Niels Lohmann,,"Berlin, Germany",mail@nlohmann.me,True,You may know me from my JSON library for C++.,42,2656,19,2009-11-29T15:47:30Z
+floooh,Andre Weissflog,,Berlin,floooh@gmail.com,,,148,2485,38,2012-05-02T15:38:15Z
+cure53,Cure53,FINE PENETRATION TESTS FOR FINE WEBSITES,Berlin,mario@cure53.de,,And there is fire where we walk.,20,2474,0,2014-02-17T21:39:32Z
+nisrulz,Nishant Srivastava,SCOUT24,"Berlin, Germany",,,Sr. Android Engineer 👨🏻‍💻  ,72,2443,2,2012-08-04T21:46:01Z
