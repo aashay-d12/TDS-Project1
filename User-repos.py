@@ -3,7 +3,7 @@ import pandas as pd
 import time
 import re
 
-GITHUB_TOKEN = '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'
+GITHUB_TOKEN = 'my_GITHUB_token'
 headers = {"Authorization": f"token {GITHUB_TOKEN}"}
 
 def fetch_users(location="Berlin", min_followers=200):
