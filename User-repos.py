@@ -7,13 +7,21 @@ GITHUB_TOKEN = 'my_GITHUB_token'
 headers = {"Authorization": f"token {GITHUB_TOKEN}"}
 
 def fetch_users(location="Berlin", min_followers=200):
-    url = f"https://api.github.com/search/users?q=location:{location}+followers:>{min_followers}"
     users = []
-    response = requests.get(url, headers=headers)
-    if response.ok:
-        data = response.json().get("items", [])
-        for user in data:
-            users.append(user['login'])
+    page = 1 
+    while True:
+        url = f"https://api.github.com/search/users?q=location:{location}+followers:>{min_followers}&page={page}&per_page=100"
+        response = requests.get(url, headers=headers)
+        if response.ok:
+            data = response.json().get("items", [])
+            if not data:  
+                break
+            for user in data:
+                users.append(user['login'])
+            page += 1 
+            time.sleep(1)  
+        else:
+            break
     return users
 
 def get_user_data(username):
